@@ -180,7 +180,7 @@ Possible enhancements include:
 Deployment Link:
 
 ```text
-Add your Vercel deployment link here
+https://user-management-dashboard-lake-tau.vercel.app
 ```
 
 ---
@@ -190,7 +190,7 @@ Add your Vercel deployment link here
 Repository Link:
 
 ```text
-Add your GitHub repository link here
+https://github.com/kamaltejakatru-hub/user-management-dashboard
 ```
 
 ---
