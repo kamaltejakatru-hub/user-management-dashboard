@@ -94,7 +94,7 @@ src/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kamaltejakatru-hub/user-management-dashboard
 ```
 
 ### Navigate to the Project Folder
